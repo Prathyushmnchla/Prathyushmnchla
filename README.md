@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathyushmnchla
 - 👀 I’m interested in building a framework for collective ownership
-- 🌱 I’m currently learning architectur underlying distributed systems
+- 🌱 I’m currently learning architecture underlying distributed systems
 - 💞️ I’m looking to collaborate on blockchain built proof of Identity
 
 <!---
